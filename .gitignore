@@ -1,0 +1,11 @@
+# --- Fichiers compiles / executables (regenerables depuis le .c) ---
+*.exe
+*.o
+*.obj
+*.out
+
+# --- Dossiers de build ---
+/.dist/
+
+# --- Configuration locale de l'editeur, propre a la machine ---
+.claude/settings.local.json
